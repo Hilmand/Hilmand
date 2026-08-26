@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Hilmand
-- 👀 I’m interested in Cyber Security and Python Programming
-- 🌱 I’m currently learning Blockchain, Advanced Pen testing and Python for Cyber Security
-- 💞️ I’m looking to collaborate on different security projects
-- 📫 How to reach me => hilmand90@gmail.com & Whatsapp: +92-336-527-2274
+- 👋 Hi, I'm @Hilmand
+- 🛡️ Cybersecurity Expert/Engineer with 7+ years of industry experience, complemented by academic research experience and publications in top-tier journals
+- 🔬 My work spans AI-driven threat detection, privacy-preserving security mechanisms, and real-time validation systems — currently applying this through a PhD in the field
+- 💻 Strong hands-on development background in Bash and Python for security tooling and automation
+- 👀 Core interests: Cyber Security, Advanced Penetration Testing, and Python for Security Engineering
+- 🌱 Currently deepening my skills in Blockchain Security and Advanced Pen Testing
+- 💞️ Open to collaborating on security research and industry projects alike
+- 📫 Reach me: hilmand90@gmail.com | WhatsApp: +92-336-527-2274
