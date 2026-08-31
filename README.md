@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @Hilmand
 - 🛡️ Cybersecurity Expert/Engineer with 7+ years of industry experience, complemented by academic research experience and publications in top-tier journals
-- 🔬 My work spans AI-driven threat detection, privacy-preserving security mechanisms, and real-time validation systems — currently applying this through a PhD in the field
+- 🔬 My work spans W3, Smart Contracts, AI-driven threat detection, privacy-preserving security mechanisms, and real-time validation systems — currently applying this through a PhD in the field
 - 💻 Strong hands-on development background in Bash and Python for security tooling and automation
 - 👀 Core interests: Cyber Security, Advanced Penetration Testing, and Python for Security Engineering
 - 🌱 Currently deepening my skills in Blockchain Security and Advanced Pen Testing
